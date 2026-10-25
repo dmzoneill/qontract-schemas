@@ -1,0 +1,5 @@
+# Upstream third-party file: this repo is a fork of app-sre/qontract-schemas
+# (https://github.com/app-sre/qontract-schemas). graphql-schemas/schema.yml is
+# the upstream GraphQL type definition list (repetitive by design), maintained
+# by Red Hat App-SRE, not first-party code.
+graphql-schemas/schema.yml
